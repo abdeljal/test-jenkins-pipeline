@@ -6,6 +6,10 @@
     <groupId>pipeline.abdel</groupId>
     <artifactId>pipeline.abdel.pom</artifactId>
     <version>1.0.0</version>
+    <packaging>pom</packaging>
     <name>Test Pipeline</name>
     <description>Test pipeline jenkins</description>
+    <modules>
+        <module>test-multi</module>
+    </modules>
 </project>
